@@ -1,0 +1,6 @@
+{% assign sorted-posts = site.posts | sort: 'post_date' | reverse %}
+{% for post in sorted-posts %}
+  <li>
+    {{ post.post_date | date_to_string }}: <a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a>
+  </li>
+{%- endfor -%}

@@ -23,8 +23,8 @@ author:
   name: 0xor0ne
   email: "0xor0ne [at] g m a i l . c o m"
 description: >- # this means to ignore newlines until "baseurl:"
-  "Linux malware, reverse engineering and tools"
-baseurl: "" # the subpath of your site, e.g. /blog
+  "Exploit development, vulnerability research and reverse engineering"
+github_username: 0xor0ne
 url: "https://0xor0ne.github.io/" # the base hostname & protocol for your site
 
 # Build settings
@@ -32,8 +32,18 @@ theme: minima
 # plugins:
 #   - jekyll-feed
 
+titles_from_headings:
+  strip_title: true
+
+defaults:
+- 
+  scope:
+          path: "Posts"
+  values:
+          category: "post"
+
 minima:
-  skin: solarized-dark
+  skin: dark
   social_links:
     twitter: 0xor0ne
     github: 0xor0ne
