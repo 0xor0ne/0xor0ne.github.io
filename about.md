@@ -5,7 +5,7 @@
 layout: page
 ---
 
-Random notes about exploit development, vulnerability research and reverse engineering
-from the mind of a vigilante hacker.
+Random notes about binary reverse engineering, red team tools development and
+malware analysis from the mind of a vigilante hacker.
 
 Follow me on [GitHub](https://github.com/0xor0ne) and [Twitter](https://twitter.com/0xor0ne).
