@@ -16,6 +16,7 @@
 menu:
 - {name: 'Home', url: '/index.html'}
 - {name: 'Archive', url: '/posts.html'}
+- {name: 'Repos', url: '/repos.html'}
 - {name: 'About', url: '/about.html'}
 
 social:
