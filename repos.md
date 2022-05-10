@@ -8,5 +8,9 @@ title: Public Repositories
 </li>
 
 <li>
+  <a href="https://github.com/0xor0ne/qscan" target="_blank">qscan</a>: Quick network scanning rust library.
+</li>
+
+<li>
   <a href="https://github.com/0xor0ne/awesome-list" target="_blank">Awesome List</a>: Personal awesome list
 </li>
