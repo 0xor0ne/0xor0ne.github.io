@@ -12,5 +12,9 @@ title: Public Repositories
 </li>
 
 <li>
+  <a href="https://github.com/0xor0ne/flipperbit" target="_blank">flipperbit</a>: Corrupted files generator. Random bits flipper.
+</li>
+
+<li>
   <a href="https://github.com/0xor0ne/awesome-list" target="_blank">Awesome List</a>: Personal awesome list
 </li>
