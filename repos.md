@@ -8,6 +8,10 @@ title: Public Repositories
 </li>
 
 <li>
+  <a href="https://github.com/0xor0ne/doc-revexp" target="_blank">Doc-revexp</a>: Docker image for reverse engineering and exploit development.
+</li>
+
+<li>
   <a href="https://github.com/0xor0ne/qscan" target="_blank">qscan</a>: Quick network scanning rust library.
 </li>
 
