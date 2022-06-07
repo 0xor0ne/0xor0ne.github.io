@@ -5,5 +5,5 @@
 layout: home
 ---
 
-# Welcome to 0xor0ne's notebook
+# 0xor0ne's Blog
 
