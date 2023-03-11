@@ -4,11 +4,15 @@ title: Public Repositories
 ---
 
 <li>
-  <a href="https://github.com/0xor0ne/qscan" target="_blank">qscan</a>: Quick network scanning rust library.
+  <a href="https://github.com/0xor0ne/debugoff" target="_blank">debugoff</a>: Linux rust library implementing anti-debugging and anti-analysis tricks.
 </li>
 
 <li>
-  <a href="https://github.com/0xor0ne/debugoff" target="_blank">debugoff</a>: Linux rust library implementing anti-debugging and anti-analysis tricks.
+  <a href="https://github.com/0xor0ne/recmd" target="_blank">Recmd</a>: Remote Command Executor
+</li>
+
+<li>
+  <a href="https://github.com/0xor0ne/qscan" target="_blank">qscan</a>: Quick network scanning rust library.
 </li>
 
 <li>
