@@ -16,6 +16,10 @@ title: Public Repositories
 </li>
 
 <li>
+  <a href="https://github.com/0xor0ne/ssfs" target="_blank">ssfs</a>: Simple Secure Static (HTTPS) File Server with embedded certificate
+</li>
+
+<li>
   <a href="https://github.com/0xor0ne/docker-x-builder" target="_blank">Docker X Builder</a>: Docker image for cross-compilation.
 </li>
 
