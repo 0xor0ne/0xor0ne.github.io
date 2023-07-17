@@ -4,6 +4,10 @@ title: Public Repositories
 ---
 
 <li>
+  <a href="https://github.com/0xor0ne/RoustKit" target="_blank">RoustKit</a>: Rust out-of-tree Linux Kernel Modules (LKMs) experimentation framework
+</li>
+
+<li>
   <a href="https://github.com/0xor0ne/debugoff" target="_blank">debugoff</a>: Linux rust library implementing anti-debugging and anti-analysis tricks.
 </li>
 
